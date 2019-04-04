@@ -10,7 +10,7 @@ object BrandsLocationData {
 
     val spark = SparkSession.builder()
       .master("local[*]")
-      .appName("Users table data")
+      .appName("Brands location data")
       .config("spark.driver.memory", "10g")
       .enableHiveSupport()
       .getOrCreate()

@@ -1,4 +1,4 @@
-name := "UsersDataCollecting"
+name := "BrandsLocationsData"
 
 version := "1.0"
 

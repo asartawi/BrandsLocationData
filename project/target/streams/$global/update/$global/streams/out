@@ -1,11 +1,11 @@
-[info] Updating {file:/D:/Harri%20internship/UserTableCollecting/project/}usertablecollecting-build...
-[debug] :: resolving dependencies :: default#usertablecollecting-build;0.1-SNAPSHOT
+[info] Updating {file:/D:/Harri%20internship/BrandsLocationData/project/}brandslocationdata-build...
+[debug] :: resolving dependencies :: default#brandslocationdata-build;0.1-SNAPSHOT
 [debug] 	confs: [compile, runtime, test, provided, optional, compile-internal, runtime-internal, test-internal, plugin, sources, docs, pom, scala-tool]
 [debug] 	validate = true
 [debug] 	refresh = false
 [debug] resolving dependencies for configuration 'compile'
-[debug] == resolving dependencies for default#usertablecollecting-build;0.1-SNAPSHOT [compile]
-[debug] == resolving dependencies default#usertablecollecting-build;0.1-SNAPSHOT->org.scala-sbt#global-plugins;0.0 [compile->default(compile)]
+[debug] == resolving dependencies for default#brandslocationdata-build;0.1-SNAPSHOT [compile]
+[debug] == resolving dependencies default#brandslocationdata-build;0.1-SNAPSHOT->org.scala-sbt#global-plugins;0.0 [compile->default(compile)]
 [debug] dependency descriptor has been mediated: dependency: org.scala-lang#scala-compiler;2.10.7 {scala-tool=[default, optional(default)]} => dependency: org.scala-lang#scala-compiler;2.10.7 {scala-tool=[default, optional(default)]}
 [debug] dependency descriptor has been mediated: MergedDescriptors(dependency: org.scala-lang#scala-library;2.10.7 {scala-tool=[default, optional(default)]},dependency: org.scala-lang#scala-library;2.10.7 {provided=[default(compile)]}) => dependency: org.scala-lang#scala-library;2.10.7 {scala-tool=[default, optional(default)], provided=[default(compile)]}
 [info] Resolving org.scala-sbt#global-plugins;0.0 ...
@@ -14,9 +14,9 @@
 [debug] dependency descriptor has been mediated: dependency: org.scala-lang#scala-compiler;2.10.7 {scala-tool=[default, optional(default)]} => dependency: org.scala-lang#scala-compiler;2.10.7 {scala-tool=[default, optional(default)]}
 [debug] dependency descriptor has been mediated: MergedDescriptors(dependency: org.scala-lang#scala-library;2.10.7 {scala-tool=[default, optional(default)]},dependency: org.scala-lang#scala-library;2.10.7 {provided=[default(compile)]}) => dependency: org.scala-lang#scala-library;2.10.7 {scala-tool=[default, optional(default)], provided=[default(compile)]}
 [debug] resolving dependencies for configuration 'runtime'
-[debug] == resolving dependencies for default#usertablecollecting-build;0.1-SNAPSHOT [runtime]
-[debug] == resolving dependencies for default#usertablecollecting-build;0.1-SNAPSHOT [compile]
-[debug] == resolving dependencies default#usertablecollecting-build;0.1-SNAPSHOT->org.scala-sbt#global-plugins;0.0 [compile->default(compile)]
+[debug] == resolving dependencies for default#brandslocationdata-build;0.1-SNAPSHOT [runtime]
+[debug] == resolving dependencies for default#brandslocationdata-build;0.1-SNAPSHOT [compile]
+[debug] == resolving dependencies default#brandslocationdata-build;0.1-SNAPSHOT->org.scala-sbt#global-plugins;0.0 [compile->default(compile)]
 [debug] dependency descriptor has been mediated: dependency: org.scala-lang#scala-compiler;2.10.7 {scala-tool=[default, optional(default)]} => dependency: org.scala-lang#scala-compiler;2.10.7 {scala-tool=[default, optional(default)]}
 [debug] dependency descriptor has been mediated: MergedDescriptors(dependency: org.scala-lang#scala-library;2.10.7 {scala-tool=[default, optional(default)]},dependency: org.scala-lang#scala-library;2.10.7 {provided=[default(compile)]}) => dependency: org.scala-lang#scala-library;2.10.7 {scala-tool=[default, optional(default)], provided=[default(compile)]}
 [debug] dependency descriptor has been mediated: dependency: org.scala-lang#scala-compiler;2.10.7 {scala-tool=[default, optional(default)]} => dependency: org.scala-lang#scala-compiler;2.10.7 {scala-tool=[default, optional(default)]}
@@ -24,10 +24,10 @@
 [debug] dependency descriptor has been mediated: dependency: org.scala-lang#scala-compiler;2.10.7 {scala-tool=[default, optional(default)]} => dependency: org.scala-lang#scala-compiler;2.10.7 {scala-tool=[default, optional(default)]}
 [debug] dependency descriptor has been mediated: MergedDescriptors(dependency: org.scala-lang#scala-library;2.10.7 {scala-tool=[default, optional(default)]},dependency: org.scala-lang#scala-library;2.10.7 {provided=[default(compile)]}) => dependency: org.scala-lang#scala-library;2.10.7 {scala-tool=[default, optional(default)], provided=[default(compile)]}
 [debug] resolving dependencies for configuration 'test'
-[debug] == resolving dependencies for default#usertablecollecting-build;0.1-SNAPSHOT [test]
-[debug] == resolving dependencies for default#usertablecollecting-build;0.1-SNAPSHOT [runtime]
-[debug] == resolving dependencies for default#usertablecollecting-build;0.1-SNAPSHOT [compile]
-[debug] == resolving dependencies default#usertablecollecting-build;0.1-SNAPSHOT->org.scala-sbt#global-plugins;0.0 [compile->default(compile)]
+[debug] == resolving dependencies for default#brandslocationdata-build;0.1-SNAPSHOT [test]
+[debug] == resolving dependencies for default#brandslocationdata-build;0.1-SNAPSHOT [runtime]
+[debug] == resolving dependencies for default#brandslocationdata-build;0.1-SNAPSHOT [compile]
+[debug] == resolving dependencies default#brandslocationdata-build;0.1-SNAPSHOT->org.scala-sbt#global-plugins;0.0 [compile->default(compile)]
 [debug] dependency descriptor has been mediated: dependency: org.scala-lang#scala-compiler;2.10.7 {scala-tool=[default, optional(default)]} => dependency: org.scala-lang#scala-compiler;2.10.7 {scala-tool=[default, optional(default)]}
 [debug] dependency descriptor has been mediated: MergedDescriptors(dependency: org.scala-lang#scala-library;2.10.7 {scala-tool=[default, optional(default)]},dependency: org.scala-lang#scala-library;2.10.7 {provided=[default(compile)]}) => dependency: org.scala-lang#scala-library;2.10.7 {scala-tool=[default, optional(default)], provided=[default(compile)]}
 [debug] dependency descriptor has been mediated: dependency: org.scala-lang#scala-compiler;2.10.7 {scala-tool=[default, optional(default)]} => dependency: org.scala-lang#scala-compiler;2.10.7 {scala-tool=[default, optional(default)]}
@@ -37,8 +37,8 @@
 [debug] dependency descriptor has been mediated: dependency: org.scala-lang#scala-compiler;2.10.7 {scala-tool=[default, optional(default)]} => dependency: org.scala-lang#scala-compiler;2.10.7 {scala-tool=[default, optional(default)]}
 [debug] dependency descriptor has been mediated: MergedDescriptors(dependency: org.scala-lang#scala-library;2.10.7 {scala-tool=[default, optional(default)]},dependency: org.scala-lang#scala-library;2.10.7 {provided=[default(compile)]}) => dependency: org.scala-lang#scala-library;2.10.7 {scala-tool=[default, optional(default)], provided=[default(compile)]}
 [debug] resolving dependencies for configuration 'provided'
-[debug] == resolving dependencies for default#usertablecollecting-build;0.1-SNAPSHOT [provided]
-[debug] == resolving dependencies default#usertablecollecting-build;0.1-SNAPSHOT->org.scala-lang#scala-library;2.10.7 [provided->default(compile)]
+[debug] == resolving dependencies for default#brandslocationdata-build;0.1-SNAPSHOT [provided]
+[debug] == resolving dependencies default#brandslocationdata-build;0.1-SNAPSHOT->org.scala-lang#scala-library;2.10.7 [provided->default(compile)]
 [debug] dependency descriptor has been mediated: dependency: org.scala-lang#scala-compiler;2.10.7 {scala-tool=[default, optional(default)]} => dependency: org.scala-lang#scala-compiler;2.10.7 {scala-tool=[default, optional(default)]}
 [debug] dependency descriptor has been mediated: MergedDescriptors(dependency: org.scala-lang#scala-library;2.10.7 {scala-tool=[default, optional(default)]},dependency: org.scala-lang#scala-library;2.10.7 {provided=[default(compile)]}) => dependency: org.scala-lang#scala-library;2.10.7 {scala-tool=[default, optional(default)], provided=[default(compile)]}
 [info] Resolving org.scala-lang#scala-library;2.10.7 ...
@@ -46,10 +46,10 @@
 [debug] sbt-chain: module revision found in cache: org.scala-lang#scala-library;2.10.7
 [debug] 	found org.scala-lang#scala-library;2.10.7 in sbt-chain
 [debug] 	[2.10.7] org.scala-lang#scala-library;2.10.7
-[debug] == resolving dependencies default#usertablecollecting-build;0.1-SNAPSHOT->org.scala-lang#scala-library;2.10.7 [provided->runtime]
-[debug] == resolving dependencies default#usertablecollecting-build;0.1-SNAPSHOT->org.scala-lang#scala-library;2.10.7 [provided->compile]
-[debug] == resolving dependencies default#usertablecollecting-build;0.1-SNAPSHOT->org.scala-lang#scala-library;2.10.7 [provided->master]
-[debug] == resolving dependencies default#usertablecollecting-build;0.1-SNAPSHOT->org.scala-sbt#sbt;0.13.17 [provided->default(compile)]
+[debug] == resolving dependencies default#brandslocationdata-build;0.1-SNAPSHOT->org.scala-lang#scala-library;2.10.7 [provided->runtime]
+[debug] == resolving dependencies default#brandslocationdata-build;0.1-SNAPSHOT->org.scala-lang#scala-library;2.10.7 [provided->compile]
+[debug] == resolving dependencies default#brandslocationdata-build;0.1-SNAPSHOT->org.scala-lang#scala-library;2.10.7 [provided->master]
+[debug] == resolving dependencies default#brandslocationdata-build;0.1-SNAPSHOT->org.scala-sbt#sbt;0.13.17 [provided->default(compile)]
 [debug] dependency descriptor has been mediated: dependency: org.scala-lang#scala-compiler;2.10.7 {scala-tool=[default, optional(default)]} => dependency: org.scala-lang#scala-compiler;2.10.7 {scala-tool=[default, optional(default)]}
 [debug] dependency descriptor has been mediated: MergedDescriptors(dependency: org.scala-lang#scala-library;2.10.7 {scala-tool=[default, optional(default)]},dependency: org.scala-lang#scala-library;2.10.7 {provided=[default(compile)]}) => dependency: org.scala-lang#scala-library;2.10.7 {scala-tool=[default, optional(default)], provided=[default(compile)]}
 [info] Resolving org.scala-sbt#sbt;0.13.17 ...
@@ -1839,11 +1839,11 @@
 [debug] dependency descriptor has been mediated: dependency: org.scala-lang#scala-compiler;2.10.7 {provided=[default(compile)]} => dependency: org.scala-lang#scala-compiler;2.10.7 {provided=[default(compile)]}
 [debug] dependency descriptor has been mediated: dependency: org.scala-lang#scala-library;2.10.7 {compile=[default(compile)]} => dependency: org.scala-lang#scala-library;2.10.7 {compile=[default(compile)]}
 [debug] resolving dependencies for configuration 'optional'
-[debug] == resolving dependencies for default#usertablecollecting-build;0.1-SNAPSHOT [optional]
+[debug] == resolving dependencies for default#brandslocationdata-build;0.1-SNAPSHOT [optional]
 [debug] resolving dependencies for configuration 'compile-internal'
-[debug] == resolving dependencies for default#usertablecollecting-build;0.1-SNAPSHOT [compile-internal]
-[debug] == resolving dependencies for default#usertablecollecting-build;0.1-SNAPSHOT [compile]
-[debug] == resolving dependencies default#usertablecollecting-build;0.1-SNAPSHOT->org.scala-sbt#global-plugins;0.0 [compile->default(compile)]
+[debug] == resolving dependencies for default#brandslocationdata-build;0.1-SNAPSHOT [compile-internal]
+[debug] == resolving dependencies for default#brandslocationdata-build;0.1-SNAPSHOT [compile]
+[debug] == resolving dependencies default#brandslocationdata-build;0.1-SNAPSHOT->org.scala-sbt#global-plugins;0.0 [compile->default(compile)]
 [debug] dependency descriptor has been mediated: dependency: org.scala-lang#scala-compiler;2.10.7 {scala-tool=[default, optional(default)]} => dependency: org.scala-lang#scala-compiler;2.10.7 {scala-tool=[default, optional(default)]}
 [debug] dependency descriptor has been mediated: MergedDescriptors(dependency: org.scala-lang#scala-library;2.10.7 {scala-tool=[default, optional(default)]},dependency: org.scala-lang#scala-library;2.10.7 {provided=[default(compile)]}) => dependency: org.scala-lang#scala-library;2.10.7 {scala-tool=[default, optional(default)], provided=[default(compile)]}
 [debug] dependency descriptor has been mediated: dependency: org.scala-lang#scala-compiler;2.10.7 {scala-tool=[default, optional(default)]} => dependency: org.scala-lang#scala-compiler;2.10.7 {scala-tool=[default, optional(default)]}
@@ -1854,9 +1854,9 @@
 [debug] dependency descriptor has been mediated: MergedDescriptors(dependency: org.scala-lang#scala-library;2.10.7 {scala-tool=[default, optional(default)]},dependency: org.scala-lang#scala-library;2.10.7 {provided=[default(compile)]}) => dependency: org.scala-lang#scala-library;2.10.7 {scala-tool=[default, optional(default)], provided=[default(compile)]}
 [debug] dependency descriptor has been mediated: dependency: org.scala-lang#scala-compiler;2.10.7 {scala-tool=[default, optional(default)]} => dependency: org.scala-lang#scala-compiler;2.10.7 {scala-tool=[default, optional(default)]}
 [debug] dependency descriptor has been mediated: MergedDescriptors(dependency: org.scala-lang#scala-library;2.10.7 {scala-tool=[default, optional(default)]},dependency: org.scala-lang#scala-library;2.10.7 {provided=[default(compile)]}) => dependency: org.scala-lang#scala-library;2.10.7 {scala-tool=[default, optional(default)], provided=[default(compile)]}
-[debug] == resolving dependencies for default#usertablecollecting-build;0.1-SNAPSHOT [optional]
-[debug] == resolving dependencies for default#usertablecollecting-build;0.1-SNAPSHOT [provided]
-[debug] == resolving dependencies default#usertablecollecting-build;0.1-SNAPSHOT->org.scala-lang#scala-library;2.10.7 [provided->default(compile)]
+[debug] == resolving dependencies for default#brandslocationdata-build;0.1-SNAPSHOT [optional]
+[debug] == resolving dependencies for default#brandslocationdata-build;0.1-SNAPSHOT [provided]
+[debug] == resolving dependencies default#brandslocationdata-build;0.1-SNAPSHOT->org.scala-lang#scala-library;2.10.7 [provided->default(compile)]
 [debug] dependency descriptor has been mediated: dependency: org.scala-lang#scala-compiler;2.10.7 {scala-tool=[default, optional(default)]} => dependency: org.scala-lang#scala-compiler;2.10.7 {scala-tool=[default, optional(default)]}
 [debug] dependency descriptor has been mediated: MergedDescriptors(dependency: org.scala-lang#scala-library;2.10.7 {scala-tool=[default, optional(default)]},dependency: org.scala-lang#scala-library;2.10.7 {provided=[default(compile)]}) => dependency: org.scala-lang#scala-library;2.10.7 {scala-tool=[default, optional(default)], provided=[default(compile)]}
 [debug] dependency descriptor has been mediated: dependency: org.scala-lang#scala-compiler;2.10.7 {scala-tool=[default, optional(default)]} => dependency: org.scala-lang#scala-compiler;2.10.7 {scala-tool=[default, optional(default)]}
@@ -1865,10 +1865,10 @@
 [debug] dependency descriptor has been mediated: MergedDescriptors(dependency: org.scala-lang#scala-library;2.10.7 {scala-tool=[default, optional(default)]},dependency: org.scala-lang#scala-library;2.10.7 {provided=[default(compile)]}) => dependency: org.scala-lang#scala-library;2.10.7 {scala-tool=[default, optional(default)], provided=[default(compile)]}
 [debug] dependency descriptor has been mediated: dependency: org.scala-lang#scala-compiler;2.10.7 {scala-tool=[default, optional(default)]} => dependency: org.scala-lang#scala-compiler;2.10.7 {scala-tool=[default, optional(default)]}
 [debug] dependency descriptor has been mediated: MergedDescriptors(dependency: org.scala-lang#scala-library;2.10.7 {scala-tool=[default, optional(default)]},dependency: org.scala-lang#scala-library;2.10.7 {provided=[default(compile)]}) => dependency: org.scala-lang#scala-library;2.10.7 {scala-tool=[default, optional(default)], provided=[default(compile)]}
-[debug] == resolving dependencies default#usertablecollecting-build;0.1-SNAPSHOT->org.scala-lang#scala-library;2.10.7 [provided->runtime]
-[debug] == resolving dependencies default#usertablecollecting-build;0.1-SNAPSHOT->org.scala-lang#scala-library;2.10.7 [provided->compile]
-[debug] == resolving dependencies default#usertablecollecting-build;0.1-SNAPSHOT->org.scala-lang#scala-library;2.10.7 [provided->master]
-[debug] == resolving dependencies default#usertablecollecting-build;0.1-SNAPSHOT->org.scala-sbt#sbt;0.13.17 [provided->default(compile)]
+[debug] == resolving dependencies default#brandslocationdata-build;0.1-SNAPSHOT->org.scala-lang#scala-library;2.10.7 [provided->runtime]
+[debug] == resolving dependencies default#brandslocationdata-build;0.1-SNAPSHOT->org.scala-lang#scala-library;2.10.7 [provided->compile]
+[debug] == resolving dependencies default#brandslocationdata-build;0.1-SNAPSHOT->org.scala-lang#scala-library;2.10.7 [provided->master]
+[debug] == resolving dependencies default#brandslocationdata-build;0.1-SNAPSHOT->org.scala-sbt#sbt;0.13.17 [provided->default(compile)]
 [debug] dependency descriptor has been mediated: dependency: org.scala-lang#scala-compiler;2.10.7 {scala-tool=[default, optional(default)]} => dependency: org.scala-lang#scala-compiler;2.10.7 {scala-tool=[default, optional(default)]}
 [debug] dependency descriptor has been mediated: MergedDescriptors(dependency: org.scala-lang#scala-library;2.10.7 {scala-tool=[default, optional(default)]},dependency: org.scala-lang#scala-library;2.10.7 {provided=[default(compile)]}) => dependency: org.scala-lang#scala-library;2.10.7 {scala-tool=[default, optional(default)], provided=[default(compile)]}
 [debug] dependency descriptor has been mediated: dependency: org.scala-lang#scala-compiler;2.10.7 {scala-tool=[default, optional(default)]} => dependency: org.scala-lang#scala-compiler;2.10.7 {scala-tool=[default, optional(default)]}
@@ -3741,10 +3741,10 @@
 [debug] dependency descriptor has been mediated: dependency: org.scala-lang#scala-compiler;2.10.7 {provided=[default(compile)]} => dependency: org.scala-lang#scala-compiler;2.10.7 {provided=[default(compile)]}
 [debug] dependency descriptor has been mediated: dependency: org.scala-lang#scala-library;2.10.7 {compile=[default(compile)]} => dependency: org.scala-lang#scala-library;2.10.7 {compile=[default(compile)]}
 [debug] resolving dependencies for configuration 'runtime-internal'
-[debug] == resolving dependencies for default#usertablecollecting-build;0.1-SNAPSHOT [runtime-internal]
-[debug] == resolving dependencies for default#usertablecollecting-build;0.1-SNAPSHOT [runtime]
-[debug] == resolving dependencies for default#usertablecollecting-build;0.1-SNAPSHOT [compile]
-[debug] == resolving dependencies default#usertablecollecting-build;0.1-SNAPSHOT->org.scala-sbt#global-plugins;0.0 [compile->default(compile)]
+[debug] == resolving dependencies for default#brandslocationdata-build;0.1-SNAPSHOT [runtime-internal]
+[debug] == resolving dependencies for default#brandslocationdata-build;0.1-SNAPSHOT [runtime]
+[debug] == resolving dependencies for default#brandslocationdata-build;0.1-SNAPSHOT [compile]
+[debug] == resolving dependencies default#brandslocationdata-build;0.1-SNAPSHOT->org.scala-sbt#global-plugins;0.0 [compile->default(compile)]
 [debug] dependency descriptor has been mediated: dependency: org.scala-lang#scala-compiler;2.10.7 {scala-tool=[default, optional(default)]} => dependency: org.scala-lang#scala-compiler;2.10.7 {scala-tool=[default, optional(default)]}
 [debug] dependency descriptor has been mediated: MergedDescriptors(dependency: org.scala-lang#scala-library;2.10.7 {scala-tool=[default, optional(default)]},dependency: org.scala-lang#scala-library;2.10.7 {provided=[default(compile)]}) => dependency: org.scala-lang#scala-library;2.10.7 {scala-tool=[default, optional(default)], provided=[default(compile)]}
 [debug] dependency descriptor has been mediated: dependency: org.scala-lang#scala-compiler;2.10.7 {scala-tool=[default, optional(default)]} => dependency: org.scala-lang#scala-compiler;2.10.7 {scala-tool=[default, optional(default)]}
@@ -3755,13 +3755,13 @@
 [debug] dependency descriptor has been mediated: MergedDescriptors(dependency: org.scala-lang#scala-library;2.10.7 {scala-tool=[default, optional(default)]},dependency: org.scala-lang#scala-library;2.10.7 {provided=[default(compile)]}) => dependency: org.scala-lang#scala-library;2.10.7 {scala-tool=[default, optional(default)], provided=[default(compile)]}
 [debug] dependency descriptor has been mediated: dependency: org.scala-lang#scala-compiler;2.10.7 {scala-tool=[default, optional(default)]} => dependency: org.scala-lang#scala-compiler;2.10.7 {scala-tool=[default, optional(default)]}
 [debug] dependency descriptor has been mediated: MergedDescriptors(dependency: org.scala-lang#scala-library;2.10.7 {scala-tool=[default, optional(default)]},dependency: org.scala-lang#scala-library;2.10.7 {provided=[default(compile)]}) => dependency: org.scala-lang#scala-library;2.10.7 {scala-tool=[default, optional(default)], provided=[default(compile)]}
-[debug] == resolving dependencies for default#usertablecollecting-build;0.1-SNAPSHOT [optional]
+[debug] == resolving dependencies for default#brandslocationdata-build;0.1-SNAPSHOT [optional]
 [debug] resolving dependencies for configuration 'test-internal'
-[debug] == resolving dependencies for default#usertablecollecting-build;0.1-SNAPSHOT [test-internal]
-[debug] == resolving dependencies for default#usertablecollecting-build;0.1-SNAPSHOT [test]
-[debug] == resolving dependencies for default#usertablecollecting-build;0.1-SNAPSHOT [runtime]
-[debug] == resolving dependencies for default#usertablecollecting-build;0.1-SNAPSHOT [compile]
-[debug] == resolving dependencies default#usertablecollecting-build;0.1-SNAPSHOT->org.scala-sbt#global-plugins;0.0 [compile->default(compile)]
+[debug] == resolving dependencies for default#brandslocationdata-build;0.1-SNAPSHOT [test-internal]
+[debug] == resolving dependencies for default#brandslocationdata-build;0.1-SNAPSHOT [test]
+[debug] == resolving dependencies for default#brandslocationdata-build;0.1-SNAPSHOT [runtime]
+[debug] == resolving dependencies for default#brandslocationdata-build;0.1-SNAPSHOT [compile]
+[debug] == resolving dependencies default#brandslocationdata-build;0.1-SNAPSHOT->org.scala-sbt#global-plugins;0.0 [compile->default(compile)]
 [debug] dependency descriptor has been mediated: dependency: org.scala-lang#scala-compiler;2.10.7 {scala-tool=[default, optional(default)]} => dependency: org.scala-lang#scala-compiler;2.10.7 {scala-tool=[default, optional(default)]}
 [debug] dependency descriptor has been mediated: MergedDescriptors(dependency: org.scala-lang#scala-library;2.10.7 {scala-tool=[default, optional(default)]},dependency: org.scala-lang#scala-library;2.10.7 {provided=[default(compile)]}) => dependency: org.scala-lang#scala-library;2.10.7 {scala-tool=[default, optional(default)], provided=[default(compile)]}
 [debug] dependency descriptor has been mediated: dependency: org.scala-lang#scala-compiler;2.10.7 {scala-tool=[default, optional(default)]} => dependency: org.scala-lang#scala-compiler;2.10.7 {scala-tool=[default, optional(default)]}
@@ -3776,9 +3776,9 @@
 [debug] dependency descriptor has been mediated: MergedDescriptors(dependency: org.scala-lang#scala-library;2.10.7 {scala-tool=[default, optional(default)]},dependency: org.scala-lang#scala-library;2.10.7 {provided=[default(compile)]}) => dependency: org.scala-lang#scala-library;2.10.7 {scala-tool=[default, optional(default)], provided=[default(compile)]}
 [debug] dependency descriptor has been mediated: dependency: org.scala-lang#scala-compiler;2.10.7 {scala-tool=[default, optional(default)]} => dependency: org.scala-lang#scala-compiler;2.10.7 {scala-tool=[default, optional(default)]}
 [debug] dependency descriptor has been mediated: MergedDescriptors(dependency: org.scala-lang#scala-library;2.10.7 {scala-tool=[default, optional(default)]},dependency: org.scala-lang#scala-library;2.10.7 {provided=[default(compile)]}) => dependency: org.scala-lang#scala-library;2.10.7 {scala-tool=[default, optional(default)], provided=[default(compile)]}
-[debug] == resolving dependencies for default#usertablecollecting-build;0.1-SNAPSHOT [optional]
-[debug] == resolving dependencies for default#usertablecollecting-build;0.1-SNAPSHOT [provided]
-[debug] == resolving dependencies default#usertablecollecting-build;0.1-SNAPSHOT->org.scala-lang#scala-library;2.10.7 [provided->default(compile)]
+[debug] == resolving dependencies for default#brandslocationdata-build;0.1-SNAPSHOT [optional]
+[debug] == resolving dependencies for default#brandslocationdata-build;0.1-SNAPSHOT [provided]
+[debug] == resolving dependencies default#brandslocationdata-build;0.1-SNAPSHOT->org.scala-lang#scala-library;2.10.7 [provided->default(compile)]
 [debug] dependency descriptor has been mediated: dependency: org.scala-lang#scala-compiler;2.10.7 {scala-tool=[default, optional(default)]} => dependency: org.scala-lang#scala-compiler;2.10.7 {scala-tool=[default, optional(default)]}
 [debug] dependency descriptor has been mediated: MergedDescriptors(dependency: org.scala-lang#scala-library;2.10.7 {scala-tool=[default, optional(default)]},dependency: org.scala-lang#scala-library;2.10.7 {provided=[default(compile)]}) => dependency: org.scala-lang#scala-library;2.10.7 {scala-tool=[default, optional(default)], provided=[default(compile)]}
 [debug] dependency descriptor has been mediated: dependency: org.scala-lang#scala-compiler;2.10.7 {scala-tool=[default, optional(default)]} => dependency: org.scala-lang#scala-compiler;2.10.7 {scala-tool=[default, optional(default)]}
@@ -3791,10 +3791,10 @@
 [debug] dependency descriptor has been mediated: MergedDescriptors(dependency: org.scala-lang#scala-library;2.10.7 {scala-tool=[default, optional(default)]},dependency: org.scala-lang#scala-library;2.10.7 {provided=[default(compile)]}) => dependency: org.scala-lang#scala-library;2.10.7 {scala-tool=[default, optional(default)], provided=[default(compile)]}
 [debug] dependency descriptor has been mediated: dependency: org.scala-lang#scala-compiler;2.10.7 {scala-tool=[default, optional(default)]} => dependency: org.scala-lang#scala-compiler;2.10.7 {scala-tool=[default, optional(default)]}
 [debug] dependency descriptor has been mediated: MergedDescriptors(dependency: org.scala-lang#scala-library;2.10.7 {scala-tool=[default, optional(default)]},dependency: org.scala-lang#scala-library;2.10.7 {provided=[default(compile)]}) => dependency: org.scala-lang#scala-library;2.10.7 {scala-tool=[default, optional(default)], provided=[default(compile)]}
-[debug] == resolving dependencies default#usertablecollecting-build;0.1-SNAPSHOT->org.scala-lang#scala-library;2.10.7 [provided->runtime]
-[debug] == resolving dependencies default#usertablecollecting-build;0.1-SNAPSHOT->org.scala-lang#scala-library;2.10.7 [provided->compile]
-[debug] == resolving dependencies default#usertablecollecting-build;0.1-SNAPSHOT->org.scala-lang#scala-library;2.10.7 [provided->master]
-[debug] == resolving dependencies default#usertablecollecting-build;0.1-SNAPSHOT->org.scala-sbt#sbt;0.13.17 [provided->default(compile)]
+[debug] == resolving dependencies default#brandslocationdata-build;0.1-SNAPSHOT->org.scala-lang#scala-library;2.10.7 [provided->runtime]
+[debug] == resolving dependencies default#brandslocationdata-build;0.1-SNAPSHOT->org.scala-lang#scala-library;2.10.7 [provided->compile]
+[debug] == resolving dependencies default#brandslocationdata-build;0.1-SNAPSHOT->org.scala-lang#scala-library;2.10.7 [provided->master]
+[debug] == resolving dependencies default#brandslocationdata-build;0.1-SNAPSHOT->org.scala-sbt#sbt;0.13.17 [provided->default(compile)]
 [debug] dependency descriptor has been mediated: dependency: org.scala-lang#scala-compiler;2.10.7 {scala-tool=[default, optional(default)]} => dependency: org.scala-lang#scala-compiler;2.10.7 {scala-tool=[default, optional(default)]}
 [debug] dependency descriptor has been mediated: MergedDescriptors(dependency: org.scala-lang#scala-library;2.10.7 {scala-tool=[default, optional(default)]},dependency: org.scala-lang#scala-library;2.10.7 {provided=[default(compile)]}) => dependency: org.scala-lang#scala-library;2.10.7 {scala-tool=[default, optional(default)], provided=[default(compile)]}
 [debug] dependency descriptor has been mediated: dependency: org.scala-lang#scala-compiler;2.10.7 {scala-tool=[default, optional(default)]} => dependency: org.scala-lang#scala-compiler;2.10.7 {scala-tool=[default, optional(default)]}
@@ -5867,20 +5867,20 @@
 [debug] dependency descriptor has been mediated: dependency: org.scala-lang#scala-compiler;2.10.7 {provided=[default(compile)]} => dependency: org.scala-lang#scala-compiler;2.10.7 {provided=[default(compile)]}
 [debug] dependency descriptor has been mediated: dependency: org.scala-lang#scala-library;2.10.7 {compile=[default(compile)]} => dependency: org.scala-lang#scala-library;2.10.7 {compile=[default(compile)]}
 [debug] resolving dependencies for configuration 'plugin'
-[debug] == resolving dependencies for default#usertablecollecting-build;0.1-SNAPSHOT [plugin]
+[debug] == resolving dependencies for default#brandslocationdata-build;0.1-SNAPSHOT [plugin]
 [debug] resolving dependencies for configuration 'sources'
-[debug] == resolving dependencies for default#usertablecollecting-build;0.1-SNAPSHOT [sources]
+[debug] == resolving dependencies for default#brandslocationdata-build;0.1-SNAPSHOT [sources]
 [debug] resolving dependencies for configuration 'docs'
-[debug] == resolving dependencies for default#usertablecollecting-build;0.1-SNAPSHOT [docs]
+[debug] == resolving dependencies for default#brandslocationdata-build;0.1-SNAPSHOT [docs]
 [debug] resolving dependencies for configuration 'pom'
-[debug] == resolving dependencies for default#usertablecollecting-build;0.1-SNAPSHOT [pom]
+[debug] == resolving dependencies for default#brandslocationdata-build;0.1-SNAPSHOT [pom]
 [debug] resolving dependencies for configuration 'scala-tool'
-[debug] == resolving dependencies for default#usertablecollecting-build;0.1-SNAPSHOT [scala-tool]
-[debug] == resolving dependencies default#usertablecollecting-build;0.1-SNAPSHOT->org.scala-lang#scala-compiler;2.10.7 [scala-tool->default]
+[debug] == resolving dependencies for default#brandslocationdata-build;0.1-SNAPSHOT [scala-tool]
+[debug] == resolving dependencies default#brandslocationdata-build;0.1-SNAPSHOT->org.scala-lang#scala-compiler;2.10.7 [scala-tool->default]
 [debug] dependency descriptor has been mediated: dependency: org.scala-lang#scala-compiler;2.10.7 {scala-tool=[default, optional(default)]} => dependency: org.scala-lang#scala-compiler;2.10.7 {scala-tool=[default, optional(default)]}
 [debug] dependency descriptor has been mediated: MergedDescriptors(dependency: org.scala-lang#scala-library;2.10.7 {scala-tool=[default, optional(default)]},dependency: org.scala-lang#scala-library;2.10.7 {provided=[default(compile)]}) => dependency: org.scala-lang#scala-library;2.10.7 {scala-tool=[default, optional(default)], provided=[default(compile)]}
-[debug] == resolving dependencies default#usertablecollecting-build;0.1-SNAPSHOT->org.scala-lang#scala-compiler;2.10.7 [scala-tool->runtime]
-[debug] == resolving dependencies default#usertablecollecting-build;0.1-SNAPSHOT->org.scala-lang#scala-compiler;2.10.7 [scala-tool->compile]
+[debug] == resolving dependencies default#brandslocationdata-build;0.1-SNAPSHOT->org.scala-lang#scala-compiler;2.10.7 [scala-tool->runtime]
+[debug] == resolving dependencies default#brandslocationdata-build;0.1-SNAPSHOT->org.scala-lang#scala-compiler;2.10.7 [scala-tool->compile]
 [debug] dependency descriptor has been mediated: dependency: org.scala-lang#scala-library;2.10.7 {compile=[compile(*), master(*)], runtime=[runtime(*)]} => dependency: org.scala-lang#scala-library;2.10.7 {compile=[compile(*), master(*)], runtime=[runtime(*)]}
 [debug] dependency descriptor has been mediated: dependency: org.scala-lang#scala-reflect;2.10.7 {compile=[compile(*), master(*)], runtime=[runtime(*)]} => dependency: org.scala-lang#scala-reflect;2.10.7 {compile=[compile(*), master(*)], runtime=[runtime(*)]}
 [debug] dependency descriptor has been mediated: dependency: org.scala-lang#jline;2.10.7 {optional=[compile(*), master(*)]} => dependency: org.scala-lang#jline;2.10.7 {optional=[compile(*), master(*)]}
@@ -5946,14 +5946,14 @@
 [debug] dependency descriptor has been mediated: dependency: org.scala-lang#scala-library;2.10.7 {compile=[compile(*), master(*)], runtime=[runtime(*)]} => dependency: org.scala-lang#scala-library;2.10.7 {compile=[compile(*), master(*)], runtime=[runtime(*)]}
 [debug] == resolving dependencies org.scala-lang#scala-reflect;2.10.7->org.scala-lang#scala-library;2.10.7 [runtime->runtime(*)]
 [debug] == resolving dependencies org.scala-lang#scala-reflect;2.10.7->org.scala-lang#scala-library;2.10.7 [runtime->compile]
-[debug] == resolving dependencies default#usertablecollecting-build;0.1-SNAPSHOT->org.scala-lang#scala-compiler;2.10.7 [scala-tool->master]
+[debug] == resolving dependencies default#brandslocationdata-build;0.1-SNAPSHOT->org.scala-lang#scala-compiler;2.10.7 [scala-tool->master]
 [debug] dependency descriptor has been mediated: dependency: org.scala-lang#scala-library;2.10.7 {compile=[compile(*), master(*)], runtime=[runtime(*)]} => dependency: org.scala-lang#scala-library;2.10.7 {compile=[compile(*), master(*)], runtime=[runtime(*)]}
 [debug] dependency descriptor has been mediated: dependency: org.scala-lang#scala-reflect;2.10.7 {compile=[compile(*), master(*)], runtime=[runtime(*)]} => dependency: org.scala-lang#scala-reflect;2.10.7 {compile=[compile(*), master(*)], runtime=[runtime(*)]}
 [debug] dependency descriptor has been mediated: dependency: org.scala-lang#jline;2.10.7 {optional=[compile(*), master(*)]} => dependency: org.scala-lang#jline;2.10.7 {optional=[compile(*), master(*)]}
 [debug] dependency descriptor has been mediated: dependency: org.scala-lang#scala-library;2.10.7 {compile=[compile(*), master(*)], runtime=[runtime(*)]} => dependency: org.scala-lang#scala-library;2.10.7 {compile=[compile(*), master(*)], runtime=[runtime(*)]}
 [debug] dependency descriptor has been mediated: dependency: org.scala-lang#scala-reflect;2.10.7 {compile=[compile(*), master(*)], runtime=[runtime(*)]} => dependency: org.scala-lang#scala-reflect;2.10.7 {compile=[compile(*), master(*)], runtime=[runtime(*)]}
 [debug] dependency descriptor has been mediated: dependency: org.scala-lang#jline;2.10.7 {optional=[compile(*), master(*)]} => dependency: org.scala-lang#jline;2.10.7 {optional=[compile(*), master(*)]}
-[debug] == resolving dependencies default#usertablecollecting-build;0.1-SNAPSHOT->org.scala-lang#scala-compiler;2.10.7 [scala-tool->optional(default)]
+[debug] == resolving dependencies default#brandslocationdata-build;0.1-SNAPSHOT->org.scala-lang#scala-compiler;2.10.7 [scala-tool->optional(default)]
 [debug] dependency descriptor has been mediated: dependency: org.scala-lang#scala-library;2.10.7 {compile=[compile(*), master(*)], runtime=[runtime(*)]} => dependency: org.scala-lang#scala-library;2.10.7 {compile=[compile(*), master(*)], runtime=[runtime(*)]}
 [debug] dependency descriptor has been mediated: dependency: org.scala-lang#scala-reflect;2.10.7 {compile=[compile(*), master(*)], runtime=[runtime(*)]} => dependency: org.scala-lang#scala-reflect;2.10.7 {compile=[compile(*), master(*)], runtime=[runtime(*)]}
 [debug] dependency descriptor has been mediated: dependency: org.scala-lang#jline;2.10.7 {optional=[compile(*), master(*)]} => dependency: org.scala-lang#jline;2.10.7 {optional=[compile(*), master(*)]}
@@ -6009,11 +6009,11 @@
 [debug] sbt-chain: module revision found in cache: org.fusesource.jansi#jansi;1.4
 [debug] 	found org.fusesource.jansi#jansi;1.4 in sbt-chain
 [debug] == resolving dependencies org.scala-lang#jline;2.10.7->org.fusesource.jansi#jansi;1.4 [compile->compile(*)]
-[debug] == resolving dependencies default#usertablecollecting-build;0.1-SNAPSHOT->org.scala-lang#scala-library;2.10.7 [scala-tool->default]
-[debug] == resolving dependencies default#usertablecollecting-build;0.1-SNAPSHOT->org.scala-lang#scala-library;2.10.7 [scala-tool->runtime]
-[debug] == resolving dependencies default#usertablecollecting-build;0.1-SNAPSHOT->org.scala-lang#scala-library;2.10.7 [scala-tool->compile]
-[debug] == resolving dependencies default#usertablecollecting-build;0.1-SNAPSHOT->org.scala-lang#scala-library;2.10.7 [scala-tool->master]
-[debug] == resolving dependencies default#usertablecollecting-build;0.1-SNAPSHOT->org.scala-lang#scala-library;2.10.7 [scala-tool->optional(default)]
+[debug] == resolving dependencies default#brandslocationdata-build;0.1-SNAPSHOT->org.scala-lang#scala-library;2.10.7 [scala-tool->default]
+[debug] == resolving dependencies default#brandslocationdata-build;0.1-SNAPSHOT->org.scala-lang#scala-library;2.10.7 [scala-tool->runtime]
+[debug] == resolving dependencies default#brandslocationdata-build;0.1-SNAPSHOT->org.scala-lang#scala-library;2.10.7 [scala-tool->compile]
+[debug] == resolving dependencies default#brandslocationdata-build;0.1-SNAPSHOT->org.scala-lang#scala-library;2.10.7 [scala-tool->master]
+[debug] == resolving dependencies default#brandslocationdata-build;0.1-SNAPSHOT->org.scala-lang#scala-library;2.10.7 [scala-tool->optional(default)]
 [debug] ignoring unhandled DependencyDescriptorMediator: class sbt.IvyScala$OverrideScalaMediator
 [debug] 	resolved ivy file produced in cache
 [debug] :: downloading artifacts ::
@@ -6070,19 +6070,19 @@
 [debug] 	[NOT REQUIRED] org.scala-sbt#template-resolver;0.1!template-resolver.jar
 [debug] 	[NOT REQUIRED] org.scala-lang#jline;2.10.7!jline.jar
 [debug] 	[NOT REQUIRED] org.fusesource.jansi#jansi;1.4!jansi.jar
-[debug] :: resolution report :: resolve 1178ms :: artifacts dl 23ms
-[debug] 	report for default#usertablecollecting-build;0.1-SNAPSHOT compile produced in D:\Harri internship\UserTableCollecting\project\target\scala-2.10\sbt-0.13\resolution-cache\reports\default-usertablecollecting-build-compile.xml
-[debug] 	report for default#usertablecollecting-build;0.1-SNAPSHOT runtime produced in D:\Harri internship\UserTableCollecting\project\target\scala-2.10\sbt-0.13\resolution-cache\reports\default-usertablecollecting-build-runtime.xml
-[debug] 	report for default#usertablecollecting-build;0.1-SNAPSHOT test produced in D:\Harri internship\UserTableCollecting\project\target\scala-2.10\sbt-0.13\resolution-cache\reports\default-usertablecollecting-build-test.xml
-[debug] 	report for default#usertablecollecting-build;0.1-SNAPSHOT provided produced in D:\Harri internship\UserTableCollecting\project\target\scala-2.10\sbt-0.13\resolution-cache\reports\default-usertablecollecting-build-provided.xml
-[debug] 	report for default#usertablecollecting-build;0.1-SNAPSHOT optional produced in D:\Harri internship\UserTableCollecting\project\target\scala-2.10\sbt-0.13\resolution-cache\reports\default-usertablecollecting-build-optional.xml
-[debug] 	report for default#usertablecollecting-build;0.1-SNAPSHOT compile-internal produced in D:\Harri internship\UserTableCollecting\project\target\scala-2.10\sbt-0.13\resolution-cache\reports\default-usertablecollecting-build-compile-internal.xml
-[debug] 	report for default#usertablecollecting-build;0.1-SNAPSHOT runtime-internal produced in D:\Harri internship\UserTableCollecting\project\target\scala-2.10\sbt-0.13\resolution-cache\reports\default-usertablecollecting-build-runtime-internal.xml
-[debug] 	report for default#usertablecollecting-build;0.1-SNAPSHOT test-internal produced in D:\Harri internship\UserTableCollecting\project\target\scala-2.10\sbt-0.13\resolution-cache\reports\default-usertablecollecting-build-test-internal.xml
-[debug] 	report for default#usertablecollecting-build;0.1-SNAPSHOT plugin produced in D:\Harri internship\UserTableCollecting\project\target\scala-2.10\sbt-0.13\resolution-cache\reports\default-usertablecollecting-build-plugin.xml
-[debug] 	report for default#usertablecollecting-build;0.1-SNAPSHOT sources produced in D:\Harri internship\UserTableCollecting\project\target\scala-2.10\sbt-0.13\resolution-cache\reports\default-usertablecollecting-build-sources.xml
-[debug] 	report for default#usertablecollecting-build;0.1-SNAPSHOT docs produced in D:\Harri internship\UserTableCollecting\project\target\scala-2.10\sbt-0.13\resolution-cache\reports\default-usertablecollecting-build-docs.xml
-[debug] 	report for default#usertablecollecting-build;0.1-SNAPSHOT pom produced in D:\Harri internship\UserTableCollecting\project\target\scala-2.10\sbt-0.13\resolution-cache\reports\default-usertablecollecting-build-pom.xml
-[debug] 	report for default#usertablecollecting-build;0.1-SNAPSHOT scala-tool produced in D:\Harri internship\UserTableCollecting\project\target\scala-2.10\sbt-0.13\resolution-cache\reports\default-usertablecollecting-build-scala-tool.xml
-[debug] 	resolve done (1178ms resolve - 23ms download)
+[debug] :: resolution report :: resolve 644ms :: artifacts dl 23ms
+[debug] 	report for default#brandslocationdata-build;0.1-SNAPSHOT compile produced in D:\Harri internship\BrandsLocationData\project\target\scala-2.10\sbt-0.13\resolution-cache\reports\default-brandslocationdata-build-compile.xml
+[debug] 	report for default#brandslocationdata-build;0.1-SNAPSHOT runtime produced in D:\Harri internship\BrandsLocationData\project\target\scala-2.10\sbt-0.13\resolution-cache\reports\default-brandslocationdata-build-runtime.xml
+[debug] 	report for default#brandslocationdata-build;0.1-SNAPSHOT test produced in D:\Harri internship\BrandsLocationData\project\target\scala-2.10\sbt-0.13\resolution-cache\reports\default-brandslocationdata-build-test.xml
+[debug] 	report for default#brandslocationdata-build;0.1-SNAPSHOT provided produced in D:\Harri internship\BrandsLocationData\project\target\scala-2.10\sbt-0.13\resolution-cache\reports\default-brandslocationdata-build-provided.xml
+[debug] 	report for default#brandslocationdata-build;0.1-SNAPSHOT optional produced in D:\Harri internship\BrandsLocationData\project\target\scala-2.10\sbt-0.13\resolution-cache\reports\default-brandslocationdata-build-optional.xml
+[debug] 	report for default#brandslocationdata-build;0.1-SNAPSHOT compile-internal produced in D:\Harri internship\BrandsLocationData\project\target\scala-2.10\sbt-0.13\resolution-cache\reports\default-brandslocationdata-build-compile-internal.xml
+[debug] 	report for default#brandslocationdata-build;0.1-SNAPSHOT runtime-internal produced in D:\Harri internship\BrandsLocationData\project\target\scala-2.10\sbt-0.13\resolution-cache\reports\default-brandslocationdata-build-runtime-internal.xml
+[debug] 	report for default#brandslocationdata-build;0.1-SNAPSHOT test-internal produced in D:\Harri internship\BrandsLocationData\project\target\scala-2.10\sbt-0.13\resolution-cache\reports\default-brandslocationdata-build-test-internal.xml
+[debug] 	report for default#brandslocationdata-build;0.1-SNAPSHOT plugin produced in D:\Harri internship\BrandsLocationData\project\target\scala-2.10\sbt-0.13\resolution-cache\reports\default-brandslocationdata-build-plugin.xml
+[debug] 	report for default#brandslocationdata-build;0.1-SNAPSHOT sources produced in D:\Harri internship\BrandsLocationData\project\target\scala-2.10\sbt-0.13\resolution-cache\reports\default-brandslocationdata-build-sources.xml
+[debug] 	report for default#brandslocationdata-build;0.1-SNAPSHOT docs produced in D:\Harri internship\BrandsLocationData\project\target\scala-2.10\sbt-0.13\resolution-cache\reports\default-brandslocationdata-build-docs.xml
+[debug] 	report for default#brandslocationdata-build;0.1-SNAPSHOT pom produced in D:\Harri internship\BrandsLocationData\project\target\scala-2.10\sbt-0.13\resolution-cache\reports\default-brandslocationdata-build-pom.xml
+[debug] 	report for default#brandslocationdata-build;0.1-SNAPSHOT scala-tool produced in D:\Harri internship\BrandsLocationData\project\target\scala-2.10\sbt-0.13\resolution-cache\reports\default-brandslocationdata-build-scala-tool.xml
+[debug] 	resolve done (644ms resolve - 23ms download)
 [info] Done updating.
